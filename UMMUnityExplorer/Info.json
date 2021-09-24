@@ -1,0 +1,9 @@
+﻿{
+    "AssemblyName": "UMMUnityExplorer.dll",
+    "DisplayName": "UMMUnityExplorer (No console)",
+    "EntryMethod": "UMMUnityExplorer.Main.Load",
+    "Id": "UMMUnityExplorer",
+    "ManagerVersion": "0.23.0",
+    "Requirements": [],
+    "Version": "1.3.5"
+}
